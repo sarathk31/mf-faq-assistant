@@ -1,0 +1,1 @@
+# Runtime has no third-party dependencies: retrieval (BM25) and the Groq call use the Python standard library.

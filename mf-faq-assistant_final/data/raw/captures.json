@@ -1,0 +1,187 @@
+{
+  "_about": "Verbatim excerpts captured from official sources on 2026-11-04 through a browser, because the development network could not reach AMC/SEBI sites directly. Scheme-page values come from the page's embedded scheme data (__NEXT_DATA__); PDF excerpts come from pdf.js text extraction, normalized for spacing only. Every excerpt was re-checked against the live source (see docs/capture_and_verification.md).",
+  "captured_on": "2026-11-04",
+  "schemes": {
+    "S01": {
+      "scheme_name": "HDFC Large Cap Fund",
+      "aliases": ["HDFC Top 100 Fund", "large cap fund", "large cap"],
+      "category": "Equity - Large Cap",
+      "official_description": "An open ended equity scheme predominantly investing in large cap stocks.",
+      "exit_load": "In respect of each purchase/switch-in of Units, an Exit Load of 1.00% is payable if Units are redeemed/switched-out within 1 year from the date of allotment. No Exit Load is payable if Units are redeemed/switched-out after 1 year from the date of allotment. No Entry/Exit Load shall be levied on bonus units and units allotted on dividend reinvestment",
+      "ter_direct": "1.02",
+      "ter_regular": "1.58",
+      "min_sip": "100",
+      "riskometer": "Very High",
+      "benchmark": "NIFTY 100 (Total Return Index)",
+      "lock_in": null,
+      "aum_as_of": "31/10/2026"
+    },
+    "S02": {
+      "scheme_name": "HDFC Flexi Cap Fund",
+      "aliases": ["flexi cap fund", "flexi cap", "flexicap"],
+      "category": "Equity - Flexi Cap",
+      "official_description": "An open ended dynamic equity scheme investing across large cap, mid cap & small cap stocks",
+      "exit_load": "In respect of each purchase / switch-in of Units, an Exit Load of 1.00% is payable if Units are redeemed / switched-out within 1 year from the date of allotment. No Exit Load is payable if Units are redeemed / switched-out after 1 year from the date of allotment.",
+      "ter_direct": "0.75",
+      "ter_regular": "1.35",
+      "min_sip": "100",
+      "riskometer": "Very High",
+      "benchmark": "NIFTY 500 Total Returns Index",
+      "lock_in": null,
+      "aum_as_of": "31/10/2026"
+    },
+    "S03": {
+      "scheme_name": "HDFC ELSS - Tax Saver Fund",
+      "aliases": ["HDFC ELSS - Tax Saver Fund", "HDFC ELSS Tax Saver Fund", "ELSS", "tax saver", "tax saving fund"],
+      "category": "Equity - ELSS",
+      "official_description": "An Open-ended Equity Linked Savings Scheme with a statutory lock in of 3 years and tax benefit.",
+      "exit_load": "NIL",
+      "ter_direct": "1.2",
+      "ter_regular": "1.76",
+      "min_sip": "500",
+      "riskometer": "Very High",
+      "benchmark": "NIFTY 500 Total Returns Index",
+      "lock_in": "3 years",
+      "aum_as_of": "31/10/2026"
+    },
+    "S04": {
+      "scheme_name": "HDFC Liquid Fund",
+      "aliases": ["liquid fund", "liquid"],
+      "category": "Debt - Liquid",
+      "official_description": "An open ended Liquid scheme. A relatively low interest rate risk and moderate credit risk.",
+      "exit_load": null,
+      "ter_direct": "0.2",
+      "ter_regular": "0.3",
+      "min_sip": "100",
+      "riskometer": "Low to Moderate",
+      "benchmark": "CRISIL Liquid Debt A-I Index",
+      "lock_in": null,
+      "aum_as_of": "31/10/2026"
+    }
+  },
+  "documents": {
+    "S05": {
+      "scheme_name": "HDFC Large Cap Fund",
+      "sections": {
+        "name": "HDFC Large Cap Fund ( Formerly known as HDFC Top 100 Fund) An open ended equity scheme predominantly investing in large cap stocks",
+        "plans_options": "Plans: Regular & Direct Regular and Direct Plans offer the following options : (a) Growth Option (b) Income Distribution cum Capital Withdrawal (IDCW) Option",
+        "min_amount": "Purchase (including switch-in ) Additional Purchase (including switch-in ) Redemption (including switch-out) Rs.100/-and any amount thereafter Note: Allotment of units will be done after deduction of applicable stamp duty and other charges , if any. Rs.100/-and any amount thereafter",
+        "benchmark": "13. Benchmark Index NIFTY 100 Total Returns Index (TRI)",
+        "exit_load": "Exit Load: - In respect of each purchase / switch-in of Units, an Exit Load of 1.00% is payable if Units are redeemed/ switched-out within 1 year from the date of allotment."
+      }
+    },
+    "S06": {
+      "scheme_name": "HDFC Flexi Cap Fund",
+      "sections": {
+        "plans_options": "Plans: Regular & Direct Regular and Direct Plans offer the following options : (a) Growth Option (b) Income Distribution cum Capital Withdrawal (IDCW) Option",
+        "min_amount": "Purchase (including switch-in ) Additional Purchase (including switch-in ) Redemption (including switch-out) Rs.100/-and any amount thereafter Note: Allotment of units will be done after deduction of applicable stamp duty and other charges , if any. Rs.100/-and any amount thereafter",
+        "benchmark": "13. Benchmark Index NIFTY 500 Index (TRI)",
+        "exit_load": "In respect of each purchase / switch-in of Units, an Exit Load of 1.00% is payable if Units are redeemed/ switched-out within 1 year from the date of allotment. - No Exit Load is payable if Units are redeemed / switched-out after 1 year from the date of allotment."
+      }
+    },
+    "S07": {
+      "scheme_name": "HDFC ELSS - Tax Saver Fund",
+      "sections": {
+        "name": "HDFC ELSS Tax Saver An Open-ended Equity Linked Savings Scheme with a statutory lock in of 3 years and tax benefit",
+        "plans_options": "Plans: Regular & Direct Regular and Direct Plans offer the following options : (a) Growth Option (b) Income Distribution cum Capital Withdrawal (IDCW) Option",
+        "min_amount": "Purchase (including switch-in ) Additional Purchase (including switch-in ) Redemption (including switch-out) Rs. 500/-and in multiples of Rs. 500 thereafter.",
+        "benchmark": "13. Benchmark Index NIFTY 500 Index (TRI)",
+        "exit_load": "Load Structure Exit Load: Nil"
+      }
+    },
+    "S08": {
+      "scheme_name": "HDFC Liquid Fund",
+      "sections": {
+        "plans_options": "Plans: Regular & Direct The Scheme offers Regular Plan and Direct Plan.",
+        "min_amount": "Growth Option: Rs.100/-and any amount thereafter. Daily IDCW Option: Rs.10,000/-and any amount thereafter. Weekly IDCW Option and Monthly IDCW Option: Rs.5,000/-and any amount thereafter.",
+        "benchmark": "13. Benchmark Index CRISIL Liquid Debt A-I Index",
+        "exit_load": "Day 2 0.0065% Day 3 0.0060% Day 4 0.0055% Day 5 0.0050% Day 6 0.0045% Day 7 onwards Nil Note 1: For the purpose of levying exit load, if subscription (application & funds) is received within cut-off time on a day, Day 1 shall be considered to be the same day, else the day after the date of allotment of units shall be considered as Day 1.",
+        "exit_load_day1": "Exit load as a % of redemption proceeds Day 1 (Refer Note 1 below) 0.0070%"
+      }
+    },
+    "S09": {
+      "scheme_name": "HDFC Flexi Cap Fund",
+      "sections": {
+        "name": "SCHEME INFORMATION DOCUMENT HDFC Flexi Cap Fund An open ended dynamic equity scheme investing across large cap, mid cap, small cap stocks"
+      }
+    },
+    "S10": {
+      "scheme_name": "HDFC ELSS - Tax Saver Fund",
+      "sections": {
+        "name": "SCHEME INFORMATION DOCUMENT HDFC ELSS Tax Saver An Open-ended Equity Linked Savings Scheme with a statutory lock in of 3 years and tax benefit"
+      }
+    },
+    "S11": {
+      "scheme_name": "HDFC Large Cap Fund",
+      "sections": {
+        "aum": "September 30, 2026 Rs. 37,293.95 Cr. AUM"
+      }
+    },
+    "S12": {
+      "scheme_name": "HDFC Flexi Cap Fund",
+      "sections": {
+        "aum": "September 30, 2026 Rs. 108,546.98 Cr. AUM"
+      }
+    },
+    "S13": {
+      "scheme_name": "HDFC ELSS - Tax Saver Fund",
+      "sections": {
+        "rename": "HDFC ELSS-Tax Saver Fund (Erstwhile HDFC ELSS Tax Saver scheme name changed w.e.f. August 26, 2026.)"
+      }
+    },
+    "S14": {
+      "scheme_name": "HDFC Liquid Fund",
+      "sections": {
+        "positioning": "HDFC Liquid Fund is an open ended liquid scheme ideal for parking surplus money pending deployment or for meeting contingencies."
+      }
+    }
+  },
+  "general": {
+    "S15": {
+      "text": "Fund factsheet, which is endeavored to be published monthly, provides information our key schemes. It includes information such as Scheme objective, Inception date, Fund Manager, Portfolio Holdings, Risk Ratios, Historical performance, and much more. Latest Factsheet - September 2026"
+    },
+    "S16": {
+      "text": "#For latest riskometer, investors may refer to the Monthly Portfolios disclosed on the website of the Fund viz. www.hdfcfund.com"
+    },
+    "S17": {
+      "text": "Fund Documents KIM SID Scheme Summary"
+    },
+    "S19": {
+      "text": "We offer you the convenience of having your account statement sent to your email id registered with us. Please enter your folio number in the box provided below and choose the option in which you wish to receive your account statement.",
+      "cas": "Thereafter, a Consolidated Account Statement (CAS) shall be sent to the Unit holder in whose folio transactions have taken place during that month, on or before 10th of the succeeding month by mail/ email as applicable.",
+      "on_request": "In case of specific request received from investors, Mutual Fund will provide an account statement to the investors within 5 Business Days from the receipt of such request.",
+      "statement_types": "Account statement - Click here Dividend statement - Click here Exit load statement - Click here Capital Gains Statement - Click here Consolidated account statement - Click here Consolidated realized gains statement - Click here",
+      "sms": "SMS to be sent as : >CAMS H SOA <Folio Number without check digit> <password> to 56767",
+      "ivr": "Call us on 1800-3010-6767 (Toll Free) / 1800-419-7676 and follow the instructions.",
+      "branch": "You can also request for an account statement across the counter by visiting any of our Investor Service Center."
+    },
+    "S20": {
+      "what": "A Capital Gain Statement is a consolidated report that outlines the gains or losses made from mutual fund scheme specific redemptions during a specific period.",
+      "rta": "Visit CAMS (https://www.camsonline.com) or KFintech (https://www.kfintech.com) Use your PAN and email ID registered with your investments Request a consolidated capital gains report (choose financial year, email delivery)",
+      "amc": "Visit the website of each fund house you've invested in Use the PAN/email to generate your individual capital gain statement Some AMCs also allow consolidated download across their schemes",
+      "cas": "CAS includes capital gains across all mutual fund scheme holdings linked to your PAN Request via CAMS or NSDL (https://www.nsdlsra.com) Choose the \"capital gains\" format when generating CAS",
+      "timing": "Capital gain statements are generally available after financial year-end (March)"
+    },
+    "S21": {
+      "expense_ratio": "The expense ratio is the annual fee charged by fund houses for managing your mutual fund investments. It includes primarily administrative costs, fund management fees, and marketing expenses.",
+      "exit_load": "An exit load is a fee charged when you redeem mutual fund units before a specified period."
+    },
+    "S22": {
+      "levels": "Risk-o-meter shall have following six levels of risk for mutual fund schemes : i. Low Risk ii. Low to Moderate Risk iii. Moderate Risk iv. Moderately High Risk v. High Risk and vi. Very High Risk",
+      "what": "Risk Level of a scheme will be depicted by \"Risk-o-meter\""
+    }
+  },
+  "page_definitions": {
+    "source_id": "S02",
+    "ter": "The Total Expense Ration (TER) represents the costs for running and managing a Mutual Fund scheme. It is calculated as a percentage of the scheme's average Net Asset Value (NAV).",
+    "lock_in": "A lock-in period is the fixed duration during which investors cannot sell or redeem their investments/Mutual Fund units. For example, Equity Linked Savings Schemes (ELSS) Funds have a 3-year lock-in.",
+    "benchmark": "A benchmark is a standard market index used to compare a Fund's performance."
+  },
+  "ter_report_S18": {
+    "as_of": "31-Oct-2026",
+    "HDFC Large Cap Fund": {"regular": "1.58", "direct": "1.02"},
+    "HDFC Flexi Cap Fund": {"regular": "1.35", "direct": "0.75"},
+    "HDFC ELSS - Tax Saver Fund": {"regular": "1.76", "direct": "1.2"},
+    "HDFC Liquid Fund": {"regular": "0.3", "direct": "0.2"}
+  }
+}
